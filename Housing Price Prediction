@@ -1,0 +1,9 @@
+Conducted thorough data cleaning, preprocessing, and exploratory data analysis to understand pricing trends and feature impact on housing values.
+
+Identified key drivers such as location, area, number of rooms, and amenities influencing property prices.
+
+Applied regression models to predict housing prices and compared performance using metrics like MAE, MSE, and R² score.
+
+Improved model performance through feature engineering, scaling, and hyperparameter tuning.
+
+Selected the best-performing model based on predictive accuracy and generalization capability.
